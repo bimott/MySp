@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://test.yestem.com/jpv2/APP/app.ipa</string>
+     <string>https://raw.githubusercontent.com/bimott/MySp/master/app.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
